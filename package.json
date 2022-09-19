@@ -1,0 +1,15 @@
+{
+  "name": "cryptography",
+  "version": "1.2.0",
+  "description": "this is script used for cryptography",
+  "main": "cool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudresh",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "node-rsa": "^1.1.1"
+  }
+}
